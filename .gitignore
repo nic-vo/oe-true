@@ -6,3 +6,6 @@ yarn.lock
 
 next-env.d.ts
 .next*
+
+# Results of scraping, temporarily ignore
+.scraped
